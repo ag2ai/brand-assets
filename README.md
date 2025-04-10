@@ -1,2 +1,2 @@
-# brand-assets
-Official logos and other brand assets for AG2
+# AG2 Brand Assets
+The official repository for any AG2 brand assets.
